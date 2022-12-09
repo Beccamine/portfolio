@@ -1,0 +1,39 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;   
+   }
+   
+   body{
+      font-family: monospace;
+      background-image:url(https://images.unsplash.com/photo-1537884944318-390069bb8665?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTV8fGNvZGV8ZW58MHx8MHx8&w=1000&q=80);
+      background-repeat: no-repeat;
+      background-size: cover;
+      text-align: center; 
+   }
+   
+   h1{
+     font-size:70px;
+     color:aliceblue;
+   }
+   
+   p{
+     font-size:xx-large; 
+     color: aliceblue;
+     padding-left:100px; 
+     padding-right:100px;
+     margin-top: 30px;
+   }
+   
+   button{
+    background-color: rgb(168, 142, 142);
+    color: aliceblue;
+    font-size: x-large;
+    padding: 17px 17px 17px 17px;
+    margin-top: 30px;
+    border-radius: 10px 10px 10px 10px;
+   }
+   
+   #sign-up{
+    background-color: aliceblue;
+   }
