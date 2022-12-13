@@ -2261,7 +2261,7 @@ input, select, textarea {
 			#main > section.one {
 				background-color: #81918E;
 				background-color: #000;
-				background-image: url("");
+				background-image: url("tacos/background-portfolio1.webp");
 			}
 
 			#main > section.two {
@@ -2273,7 +2273,7 @@ input, select, textarea {
 			}
 
 			#main > section.four {
-				background-color: #e8edec;
+				background-color: #f4f4f4;
 			}
 
 /* Wide */
